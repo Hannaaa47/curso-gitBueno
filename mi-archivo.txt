@@ -1,0 +1,4 @@
+Probando las estapas de git
+1- En directorio (ctrl+s)
+2- Preparado (git add) 
+3- Completadp (git commit)
